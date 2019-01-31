@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css?family=Caveat');
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+table, tr, th, td.abajo{
+    border-collapse: separate;
+    padding: 5px;
+    border: 1px solid black;
+}
+h1{
+    text-align: center;
+    color: navy;
+    font-family: 'Caveat', cursive;
+    font-size: 5rem;
+}
+h2{
+    color: blue;
+}
+h3{
+    color: mediumslateblue;
+}
+img.top{
+    width: 100%;
+}
+table, tr, th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+td.gigia{
+    text-align: center;
+}
+th.gigia{
+    background-color: royalblue;
+}
+body{
+    background-color: lightblue;
+    font-size: 15px;
+    margin: 30px;
+}
+img.titulo{
+    width: 10%;
+    height: 10%;   
+}
+img.centrado{
+    margin: 10px auto;
+    display: block;
+}
+p{
+    font-family: 'Montserrat', sans-serif;
+}
+footer{
+    text-align: right;
+    margin-top: 10px;
+}
+img.laboral{
+    border: 1px black;
+    margin: 10px auto;
+    display: block;
+    border: 10px solid white;
+}
+img.asturias{
+    width: 20%;
+    height: 20%;
+    margin: 10px auto;
+    display: block;
+    border: 5px solid navy;
+}
+
+
+
+
